@@ -27,4 +27,4 @@
                height="160em"
                src="https://github-readme-stats.vercel.app/api/top-langs/?username=assiriamenezes&show_icons=true&theme=vue-dark&border_radius=10&include_all_commits=true&count_private=true&layout=compact&hide_border=true" />
         </a>
-        <img align="center" alt="barcolor" height="50" width="900" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif">
+
