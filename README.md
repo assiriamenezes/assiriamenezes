@@ -2,7 +2,7 @@
 ### Hello, how are you? This is my world. 🐞
 <img align="center" alt="barcolor" height="50" width="900" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif">
 <p><b> My Social Networks: </p></b>
-<a href="https://www.linkedin.com/in/ass%C3%ADria-menezes-74b8507b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/assiriamenezesqa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 
 <div style="display: inline_block" align="left">
   <br>
